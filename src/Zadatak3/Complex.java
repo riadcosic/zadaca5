@@ -53,11 +53,9 @@ public class Complex {
                         System.out.println("0");
                 }
                 else if (realNumber != 0 && imaginaryNumber != 0) {
-                        if (imaginaryNumber > 0) {
+
                                 System.out.println(realNumber + " + " + imaginaryNumber + "i");
-                        } else {
-                                System.out.println(realNumber + " " + imaginaryNumber + "i");
-                        }
+
                 }
 
 

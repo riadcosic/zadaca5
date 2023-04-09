@@ -3,7 +3,7 @@ package Zadatak3;
 public class ComplexMain {
     public static void main(String[] args) {
 
-        Complex z = new Complex(-7, 1);
+        Complex z = new Complex(-7, 0);
         System.out.println("Real part of the complex number is: " + z.Re());
         System.out.println("Imaginary part of the complex number is: " + z.Im());
 
